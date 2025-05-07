@@ -8,7 +8,7 @@ This exploratory analysis is aimed at predicting whether a driver receiving a co
 
 ### EDA 
 The data comes from the UCI machine learning repository and was collected through a survey on Amazon Mechanical Turk. The data consisted of 12684 entries for a total of 26 columns.  
-The dataset does include missing values. In one instance, for the column "car", 99% of the column values was missing and the column was dropped. In other instances, < 2% of the dataset was missing and for those fields, we imputed with the most frequent value of that field. 
+The dataset does include missing values. In one instance, for the column "car", 99% of the column values were missing and the column was dropped. In other instances, < 2% of the dataset was missing and for those fields, we imputed with the most frequent value of that field. 
 74 duplicates in the dataset were also dropped. 
 
 
